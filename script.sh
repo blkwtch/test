@@ -1,1 +1,1 @@
-hello $KEY1
+echo "hello $KEY1"
